@@ -1,6 +1,6 @@
 clear; clc;
 
-addpath(genpath('./lib/'));
+addpath(genpath('./utils/'));
 
 % Set directories
 dir_data = './data/';
